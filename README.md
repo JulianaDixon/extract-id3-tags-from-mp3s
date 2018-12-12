@@ -2,10 +2,14 @@
 This program extracts id3 tags from an mp3 file, allowing automated metadata collection
 
 ## Install
-Instructions on how to install
+```sh
+$ npm install extract-id3-tags-from-mp3s
+```
 
 ## Usage
-Instructions on how to use
+```sh
+$ node extract-id3-tags-from-mp3s (mp3 file)
+```
 
 ## Contribute
 If you'd like to contribute, edit, or copy them, feel free to do so!
